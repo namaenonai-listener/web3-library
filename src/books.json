@@ -1,0 +1,17 @@
+[
+    {
+      "title": "The Republic",
+      "author": "Plato",
+      "ipfsHash": "bafybeia7kdbo4lzro4ggert2rg2bhzur5yu55dgxurd4yz5xaruej6yi2a"
+    },
+    {
+      "title": "Братья Карамазовы",
+      "author": "Ф. М. Достоевский",
+      "ipfsHash": "bafybeih72vxdaywpcqkl4mopdzc3klavbodgmkfxpste44bceplr5ajtbq"
+    },
+    {
+      "title": "Also sprach Zarathustra",
+      "author": "F. W. Nietzsche",
+      "ipfsHash": "bafybeiahgul72saprjp3gnp4rbtdulp2wkt3vdi3uqsvyphn4tsyi5etxq"
+    }
+  ]
